@@ -1,0 +1,2 @@
+Fine-tuned BERT Accuracy: 0.5780
+Fine-tuned BERT F1 Score: 0.6602

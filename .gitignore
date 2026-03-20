@@ -1,0 +1,30 @@
+# Large files
+data/train-balanced-sarcasm.csv
+data/train-balanced-sarc.csv
+models/sarcasm_bert/model.safetensors
+
+# Standard Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.vscode/
+.idea/
